@@ -139,7 +139,7 @@
                 <li>Weaken labor rights by rolling back federal protections on fair wages, collective bargaining, and workplace safety (ps. 603-604).</li>
                 <li>
                     Privatize public services by defunding federal housing and public transportation programs, reducing assistance for low-income communities (ps. 591-593).
-                    <ul>
+                    <ul class="checklist">
                         <li>
                             <input type="checkbox" checked="checked" readonly>
                             <a href="https://www.nbcnews.com/politics/donald-trump/white-house-orders-freeze-federal-aid-focus-trumps-conservative-agenda-rcna189552" target="_blank" rel="nofollow">Attempted Order</a>
@@ -201,7 +201,7 @@
             <ul>
                 <li>
                     Eliminate federal healthcare funding for reproductive rights, including access to contraception and abortion (ps. 456-457, 470-472).
-                    <ul>
+                    <ul class="checklist">
                         <li>
                             <input type="checkbox" checked="checked" readonly>
                             <a href="https://www.nbcnews.com/politics/donald-trump/white-house-orders-freeze-federal-aid-focus-trumps-conservative-agenda-rcna189552" target="_blank" rel="nofollow">Attempted Order</a>
