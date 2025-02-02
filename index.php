@@ -353,6 +353,9 @@
             <p>
                 For those of you who don't know the definition of, and consequences of, <a href="https://en.wikipedia.org/wiki/Fascism" target="_blank" rel="nofollow">Fascism</a> please read up on it, and be worried.
             </p>
+            <p>
+                If you would like to contribute to this project, please see the <a href="https://github.com/2025realitycheck/project-2025-reality-check" target="_blank" rel="nofollow">GitHub Repo</a>.
+            </p>
         </div>
     </div>
 </body>
