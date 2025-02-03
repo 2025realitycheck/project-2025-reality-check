@@ -4,6 +4,8 @@ created this repository to help spread out the work, and hopefully keep things a
 
 please feel free to make PRs for additions or changes, and/or open issues with clarifications, edits, or references.
 
+The most recent published version can be found at https://2025realitycheck.com .
+
 ## Contributions:
 
 The contributions I need involve primarily finding reputable quotes and articles that corroborates the bullet points listed in the index.php file.
